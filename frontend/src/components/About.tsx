@@ -31,7 +31,7 @@ export default function About() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Me</h2>
             <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              I'm a passionate full-stack developer with over 5 years of experience building web applications.
+              I&apos;m a passionate full-stack developer with over 5 years of experience building web applications.
               I love turning complex problems into simple, beautiful solutions.
             </p>
           </div>

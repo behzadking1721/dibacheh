@@ -8,17 +8,17 @@ export default function Contact() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Get In Touch</h2>
             <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              I'm always open to discussing new opportunities and interesting projects.
+              I&apos;m always open to discussing new opportunities and interesting projects.
             </p>
           </div>
         </div>
         <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
           <div className="flex flex-col justify-center space-y-6">
             <div className="space-y-4">
-              <h3 className="text-2xl font-bold">Let's Work Together</h3>
+              <h3 className="text-2xl font-bold">Let&apos;s Work Together</h3>
               <p className="text-gray-500 dark:text-gray-400">
                 Whether you have a project in mind or just want to chat about technology,
-                I'd love to hear from you. Drop me a message and I'll get back to you as soon as possible.
+                I&apos;d love to hear from you. Drop me a message and I&apos;ll get back to you as soon as possible.
               </p>
             </div>
             <div className="space-y-4">

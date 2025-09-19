@@ -8,7 +8,7 @@ export default function Hero() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-gradient-to-r from-black to-gray-600 dark:from-white dark:to-gray-400 bg-clip-text text-transparent">
-                Hi, I'm John Doe
+                Hi, I&apos;m John Doe
               </h1>
               <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
                 Full-stack developer passionate about creating beautiful and functional web applications.
